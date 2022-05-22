@@ -1,0 +1,1 @@
+All these scripts are taken from open sources! More scripts will be added in future updates!
