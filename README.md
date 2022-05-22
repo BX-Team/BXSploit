@@ -6,7 +6,7 @@ Has the function of saving and loading .txt and .lua files. Also have a 3 includ
 All scripts you can find in program or in `/scripts` directory. More information will be written on the wiki (coming soon)
 
 ## 💾 Download
-You can download BXSploit via [Releases](https://github.com/BX-Team/BXSploit/releases) page on right side. You must download the installer and then it will install the main BXSploit.exe file for you
+You can download BXSploit via [Releases](https://github.com/BX-Team/BXSploit/releases) page on right side. You must download the installer and then it will install the main BXSploit.exe file for you. Also you can create a shortcut on youe desktop!
 
 ## 🛑 Denial of responsibility
 If you are blocked by the ROBLOX administration - you will be to blame for this yourself! 
