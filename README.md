@@ -3,10 +3,16 @@
 ## ❓ About
 New exploit for ROBLOX written on C#. Using WRDAPI to inject the script into the game. Soon, planing to add multi API selection.
 Has the function of saving and loading .txt and .lua files. Also have a 11 included scripts!
-All scripts you can find in `\Scripts\` directory. More information writen on wiki.
+All scripts you can find in `\Scripts` directory. More information writen on wiki.
 
 ## 💾 Download
-You can download BXSploit via [Releases](https://github.com/BX-Team/BXSploit/releases) page on right side. You must download the installer and then it will install the main BXSploit.exe file for you. Also you can create a shortcut on youe desktop!
+You can download BXSploit via [Releases](https://github.com/BX-Team/BXSploit/releases) page on right side. You must download the installer and then it will install the main BXSploit.exe file for you. Also you can create a shortcut on your desktop!
+
+## 📜 Next Updates
+- BX Team Account System
+- Settings tab
+- Execute script as LuaC
+- and...
 
 ## 🛑 Denial of responsibility
 If you are blocked by the ROBLOX administration - you will be to blame for this yourself! 
